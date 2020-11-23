@@ -1,0 +1,13 @@
+{
+    "name": "showger/tools",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "showger",
+            "email": "cheerwx@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
