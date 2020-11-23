@@ -1,6 +1,6 @@
 {
     "name": "showger/tools",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
